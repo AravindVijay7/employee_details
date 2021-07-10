@@ -1,0 +1,1 @@
+const noImage  = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzr9OknhHzrVi5RuVAW9cq9tMhpxqPrWuBEH_Np5Bf5wWTMQePfm6J01I8q_8cVH5ryg0&usqp=CAU';

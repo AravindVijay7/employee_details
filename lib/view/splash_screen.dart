@@ -22,7 +22,11 @@ class _SplashScreenState extends State<SplashScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.white,
-      body: Center(child: Text('Employee Directory')),
+      body: Center(child: Text('Employee \nDirectory',style: TextStyle(
+        fontSize: 18,
+        fontWeight: FontWeight.w700
+      ),textAlign: TextAlign.center,)),
+
     );
   }
 
